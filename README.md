@@ -7,11 +7,11 @@
 ## Overview
 This is a web application development for Containment, Disarm and Reconstruct (CDR). The CDR itself is based on the Springbot architecture and was developed earlier. We used the CDR application and built a web application around it. <br \>
 There are 2 development paths in this project. <br \>
-Fullstack:
+### Fullstack
 - Responsible for the development of the website
 - Divide of the CDR backend app to components and services
 - Making it easy to deploy and maintainable 
-Image CDR:
+### Image CDR
 -
 
  
