@@ -10,7 +10,7 @@ There are 2 development paths in this project. <br \>
 Fullstack:
 - Responsible for the development of the website
 - Divide of the CDR backend app to components and services
-- Making it easy to deploy and maintainable <br \>
+- Making it easy to deploy and maintainable 
 Image CDR:
 -
 
