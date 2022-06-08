@@ -11,6 +11,7 @@ There are 2 development paths in this project. <br />
 - Responsible for the development of the website
 - Divide of the CDR backend app to components and services
 - Making it easy to deploy and maintainable 
+- Create Deployment plan for Docker
 ### Image CDR
 -
 
