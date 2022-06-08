@@ -5,7 +5,7 @@
 - CDR: Ran Dubin, Amit-Sheer Cohen, Eli Belkind
 
 ## Overview
-This is a web application development for Containment, Disarm and Reconstruct (CDR). The CDR itself is based on the Springbot architecture and was developed earlier. We used the CDR application and built a web application around it. <br />
+This is a web application development for Containment, Disarm and Reconstruct (CDR). We used the CDR application and built a web application around it and added CDR capabilities of handeling images. <br />
 There are 2 development paths in this project. <br />
 ### Fullstack
 - Responsible for the development of the website
