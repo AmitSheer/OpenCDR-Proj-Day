@@ -13,7 +13,9 @@ There are 2 development paths in this project. <br />
 - Making it easy to deploy and maintainable 
 - Create Deployment plan for Docker
 ### Image CDR
--
+- Responsible for reaserch and development of CDR methods for images
+- Created a complete reaserch paper on the findings
+- Implementetion of the image CDR reaserch to the backend app
 
  
 ## Dependencies
